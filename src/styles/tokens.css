@@ -1,0 +1,49 @@
+/* RESCUEBOT Field Operations Token System */
+:root {
+  /* Default Warm Light Theme */
+  --bg: #EFEDE6;
+  --surface: #F7F5EF;
+  --surface-2: #E6E3D9;
+  --line: #CFCABC;
+  --line-strong: #A9A394;
+  --ink: #1F2421;
+  --ink-2: #4B524D;
+  --ink-3: #7A807A;
+
+  --ok: #3F6B3A;
+  --ok-bg: #DDE7D6;
+  --warn: #B8791A;
+  --warn-bg: #F1E3C4;
+  --danger: #A8322A;
+  --danger-bg: #F0D6D2;
+
+  --accent: #2F4A3A;
+  --relay: #B8581A;
+  --info: #4B524D;
+
+  --font-sans: 'IBM Plex Sans', -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif;
+  --font-mono: 'IBM Plex Mono', 'SFMono-Regular', Consolas, monospace;
+}
+
+html.dark {
+  /* Dark Graphite Theme */
+  --bg: #171A18;
+  --surface: #212623;
+  --surface-2: #2A302C;
+  --line: #373F3B;
+  --line-strong: #525C57;
+  --ink: #E4E7E4;
+  --ink-2: #A9B0AA;
+  --ink-3: #757E77;
+
+  --ok: #5C9C55;
+  --ok-bg: #1E2D1C;
+  --warn: #D99630;
+  --warn-bg: #352914;
+  --danger: #D94D43;
+  --danger-bg: #361A18;
+
+  --accent: #456B54;
+  --relay: #D97230;
+  --info: #8C968F;
+}
